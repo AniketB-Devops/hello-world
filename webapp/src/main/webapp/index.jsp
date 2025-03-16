@@ -58,9 +58,9 @@
                         Deployment Status
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title">Last Deployment: <span class="badge badge-success">Success</span></h5>
-                        <p>The most recent deployment was successful.</p>
-                        <!-- Removed the View Logs link -->
+                        <h5 class="card-title">Last Deployment: <span class="badge badge-danger">Failed</span></h5>
+                        <p>There was an issue during the last deployment.</p>
+                        <a href="#" class="btn btn-warning">View Deployment Logs</a>
                     </div>
                 </div>
             </div>
@@ -136,4 +136,3 @@
     <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
 </body>
 </html>
-
