@@ -60,7 +60,7 @@
                     <div class="card-body">
                         <h5 class="card-title">Last Deployment: <span class="badge badge-success">Success</span></h5>
                         <p>The most recent deployment was successful.</p>
-                        <a href="#" class="btn btn-warning">View Deployment Logs</a>
+                        <!-- Removed the View Logs link -->
                     </div>
                 </div>
             </div>
