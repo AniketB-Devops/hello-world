@@ -58,8 +58,8 @@
                         Deployment Status
                     </div>
                     <div class="card-body">
-                        <h5 class="card-title">Last Deployment: <span class="badge badge-danger">Failed</span></h5>
-                        <p>There was an issue during the last deployment.</p>
+                        <h5 class="card-title">Last Deployment: <span class="badge badge-success">Success</span></h5>
+                        <p>The most recent deployment was successful.</p>
                         <a href="#" class="btn btn-warning">View Deployment Logs</a>
                     </div>
                 </div>
